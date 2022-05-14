@@ -1,3 +1,17 @@
+
+## Installation 
+
+* Application can be easily start and be running by docker 
+below are the steps to run through docker   
+prerequisite  docker engine to be installed and running
+
+to be started as a docker image 
+first you will need to clone the repository then locate into the project path 
+cloning the git repository
+```bash
+ - git clone https://github.com/Abdelaleem-92/account-transaction-client.git   
+``` 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
