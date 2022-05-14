@@ -1,18 +1,3 @@
-
-## Installation 
-
-* Application can be easily start and be running by docker 
-below are the steps to run through docker   
-prerequisite  docker engine to be installed and running
-
-to be started as a docker image 
-first you will need to clone the repository then locate into the project path 
-cloning the git repository
-```bash
- - git clone https://github.com/Abdelaleem-92/account-transaction-client.git
-``` 
-
-
 # account transactions Client Application
 
 this is Java+REACT application that presents the client and APIs for account transactions, 
