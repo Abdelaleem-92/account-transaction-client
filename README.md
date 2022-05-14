@@ -9,8 +9,44 @@ to be started as a docker image
 first you will need to clone the repository then locate into the project path 
 cloning the git repository
 ```bash
- - git clone https://github.com/Abdelaleem-92/account-transaction-client.git   
+ - git clone https://github.com/Abdelaleem-92/account-transaction-client.git
 ``` 
+
+
+# account transactions Client Application
+
+this is Java+REACT application that presents the client and APIs for account transactions, 
+
+## Technologies
+Project is created with:
+* React.
+
+
+## Installation 
+
+* Application can be easily start and be running by docker 
+below are the steps to run through docker   
+prerequisite  docker engine to be installed and running
+
+to be started as a docker image 
+first you will need to clone the repository then locate into the project path 
+cloning the git repository
+```bash
+ - git clone https://github.com/Abdelaleem-92/account-transaction-client.git
+``` 
+
+* build docker image
+```bash
+ docker run -p 3000:3000 account_transactions:account_transactions_client
+``` 
+
+run docker container 
+```bash
+docker run -p 3000:3000 account_transactions:account_transactions_client
+``` 
+
+to open the application  url :   http://localhost:3000/
+
 
 # Getting Started with Create React App
 
